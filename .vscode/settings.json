@@ -1,6 +1,11 @@
 {
     // "C_Cpp.errorSquiggles": "Enabled",
     "python.pythonPath": "c:\\Users\\SST\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "files.associations": {
+        "*.py": "python",
+        "*.c": "c",
+        "ostream": "cpp"
+    },
     // "python.defaultInterpreterPath": "C:\\Users\\SST\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
 
 }
