@@ -42,7 +42,12 @@
         "sstream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "numeric": "cpp",
+        "random": "cpp",
+        "bit": "cpp"
     },
     // "python.defaultInterpreterPath": "C:\\Users\\SST\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
 
